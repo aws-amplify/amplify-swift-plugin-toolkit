@@ -1,17 +1,4 @@
-## My Project
+# amplify-swift-plugin-toolkit
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This project is licensed under the Apache-2.0 License.
-
+This package contains set of tools and public API definitions which can be used by developers 
+to create their custom Amplify plugins for different categories.
