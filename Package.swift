@@ -29,7 +29,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/awslabs/aws-sdk-swift.git", exact: "0.13.0"),
-        .package(url: "https://github.com/aws-amplify/amplify-swift.git", branch: "feat/oidc-plugin-support")
+        .package(url: "https://github.com/aws-amplify/amplify-swift.git", exact: "2.14.0")
     ],
     targets: [
         .target(

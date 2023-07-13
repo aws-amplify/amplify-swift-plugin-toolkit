@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/aws-amplify/amplify-swift.git",
       "state" : {
-        "branch" : "feat/oidc-plugin-support",
-        "revision" : "59a27f62d00d614838e3224de5292ccc7c8c496a"
+        "revision" : "dd687602c77127158d35f58e39964088ce377ba4",
+        "version" : "2.14.0"
       }
     },
     {
